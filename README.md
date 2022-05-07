@@ -8,7 +8,7 @@
 - 😎 Find me on socials
 - 🤓 www.linkedin.com/in/kdalle
 
-[](https://media1.giphy.com/media/3ohc1f8hcZ7LBe2Zzy/giphy.gif?cid=790b7611776180b0fc2e88a9a6d8f828656cd970768152cd&rid=giphy.gif&ct=g)
+![Collapsing start](https://media1.giphy.com/media/3ohc1f8hcZ7LBe2Zzy/giphy.gif?cid=790b7611776180b0fc2e88a9a6d8f828656cd970768152cd&rid=giphy.gif&ct=g)
 
 <!---
 Kemd/Kemd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
