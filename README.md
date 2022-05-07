@@ -8,7 +8,7 @@
 - 😎 Find me on socials
 - 🤓 www.linkedin.com/in/kdalle
 
-![GIF](<img src="https://37.media.tumblr.com/06043b5d7102c1e8d537461934fb809a/tumblr_nafg7zBIk11s4fz4bo1_500.gif" width="220"/>)
+![GIF]("https://37.media.tumblr.com/06043b5d7102c1e8d537461934fb809a/tumblr_nafg7zBIk11s4fz4bo1_500.gif" | width=100)
 
 <!---
 Kemd/Kemd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
