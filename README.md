@@ -8,7 +8,7 @@
 ---
 
 - 😎 Find me on socials
-   🤓 www.linkedin.com/in/kdalle
+- [![LinkedIn](https://betterweb.qwant.com/content/images/2019/06/Tracking_LinkedIn_V2-1.gif)](www.linkedin.com/in/kdalle)
 
 ---
 
