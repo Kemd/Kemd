@@ -6,7 +6,7 @@
 
  👀 I’m currently learning *Software Engneering / Web developement*
 
- 📖 ### Languages, tools and Software
+ 📖 #### Languages, tools and Software
 
       HTML5
       CSS
