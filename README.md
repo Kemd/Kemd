@@ -1,16 +1,24 @@
+# Kemcy Dalleygrand
+### Software Engeneer in Training
 
+ 
+- 🧍‍♂️ Hey there, I’m Kemcy ( @Kemd ), pronouns (He /Him /His)
 
-- 👋 Hi, I’m Kemcy ( @Kemd )
-- 🧍‍♂️ Prefer pronouns (He /Him /His)
-- 👀 I’m interested in all things code.
-- 🌱 I’m currently learning how to markup the web with HTML, Style it with CSS and add fun interactions with Javascript.
+- 👀 I’m currently learning * Software Engeneering / Web developement *
 
+- ### Languages, tools and Software
+
+      HTML5
+      CSS
+      Bootstrap
+      JavaScript
+      jQuery
+      
 ---
 
 - 😎 Find me on socials
-- [LinkedIn](https://www.linkedin.com/in/kdalle/)
+     [LinkedIn](https://www.linkedin.com/in/kdalle/)
 
----
 
 <!---
 Kemd/Kemd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
