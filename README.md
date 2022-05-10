@@ -13,6 +13,7 @@
       Bootstrap
       JavaScript
       jQuery
+      Git / GitHub
       
 ---
 
