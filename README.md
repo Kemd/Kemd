@@ -2,11 +2,11 @@
 ### Software Engineer in Training
 
  
-- 🧍‍♂️ Hey there, I’m Kemcy ( @Kemd ), pronouns (He /Him /His)
+ 🧍‍♂️ Hey there, I’m Kemcy ( @Kemd ), pronouns (He /Him /His)
 
-- 👀 I’m currently learning * Software Engneering / Web developement *
+ 👀 I’m currently learning * Software Engneering / Web developement *
 
-- ### Languages, tools and Software
+ 📖 ### Languages, tools and Software
 
       HTML5
       CSS
