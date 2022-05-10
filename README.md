@@ -4,7 +4,7 @@
  
  🧍‍♂️ Hey there, I’m Kemcy ( @Kemd ), pronouns (He /Him /His)
 
- 👀 I’m currently learning *Software Engneering / Web developement*
+ 👀 I’m currently learning *Software Engneering / Web development*
 
  📖  Languages, tools and Software
 
