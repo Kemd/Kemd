@@ -16,7 +16,7 @@
       
 ---
 
-- 😎 Find me on socials
+  😎 Find me on socials </> 
      [LinkedIn](https://www.linkedin.com/in/kdalle/)
 
 
