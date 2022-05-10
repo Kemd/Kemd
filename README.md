@@ -8,7 +8,7 @@
 ---
 
 - 😎 Find me on socials
-- [LinkedIn](www.linkedin.com/in/kdalle)
+- [LinkedIn](https://www.linkedin.com/in/kdalle/)
 
 ---
 
