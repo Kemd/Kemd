@@ -25,13 +25,9 @@
      
 ---
      
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=kemd&count_private=true&show_icons=true&hide=contribs&theme=chartreuse-dark)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=kemd&count_private=true&show_icons=true&hide=contribs&theme=chartreuse-dark) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kemd&layout=compact)
 ---
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kemd&layout=compact)
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kemd)](https://github.com/kemd/github-profile-trophy)
 <!---
 Kemd/Kemd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
