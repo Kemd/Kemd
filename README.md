@@ -1,4 +1,6 @@
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kemd91.kemd91)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kemd91.kemd91) 
+
+
 # Kemcy Dalleygrand
 ### Software Engineer in Training
 
@@ -20,6 +22,8 @@
 
   😎 Find me on socials </> 
      [LinkedIn](https://www.linkedin.com/in/kdalle/)
+     
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=kemd91&count_private=true&show_icons=true&hide=contribs&theme=chartreuse-dark)
 
 <!---
 Kemd/Kemd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
