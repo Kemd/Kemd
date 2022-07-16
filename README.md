@@ -8,20 +8,26 @@
  🧍‍♂️ Hey there, I’m Kemcy ( @Kemd ), pronouns (He /Him /His)
 
  👀 I’m currently learning *Software Engineering / Web development*
+ ---
 
  📖  Languages, tools and Software
 
+      Front-end technologies 
       HTML5
       CSS
       Bootstrap
       JavaScript
       jQuery
       Git / GitHub
+      Python
+      Django
+      Materialize
+      ExpressJS - NodeJS
       
 ---
 
   😎 Find me on socials </> 
-     [LinkedIn](https://www.linkedin.com/in/kdalle/)
+     [https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/kdalle/)
      
 ---
      
