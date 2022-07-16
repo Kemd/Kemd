@@ -1,3 +1,5 @@
+[![Badge](https://cp-logo.vercel.app/codechef/kemd91)]
+(https://www.codechef.com/users/kemd91)
 # Kemcy Dalleygrand
 ### Software Engineer in Training
 
