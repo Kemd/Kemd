@@ -1,5 +1,3 @@
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kemd.kemd)
-
 
 # Kemcy Dalleygrand
 ### Software Engineer in Training
