@@ -38,7 +38,7 @@
      
 ---
      
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=kemd&count_private=true&show_icons=true&hide=contribs&theme=chartreuse-dark) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kemd&layout=compact)
+<!-- ![Overall Stats](https://github-readme-stats.vercel.app/api?username=kemd&count_private=true&show_icons=true&hide=contribs&theme=chartreuse-dark) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kemd&layout=compact) -->
 ---
 
 <!---
